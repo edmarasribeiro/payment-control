@@ -7,7 +7,15 @@ module.exports = {
     senha: '$2a$10$xtqV3Pqp1ZK.lrKv3i5Piee/mk4ajBGh0MPV/NR7m9GILQErHw5gW',
     nome: 'ADMIN',
     ativo: true
-  }],
+  },
+  {
+    id: '00000000-0000-4000-8000-000000000002',
+    email: 'admin2@admin.com',
+    senha: '$2a$10$xtqV3Pqp1ZK.lrKv3i5Piee/mk4ajBGh0MPV/NR7m9GILQErHw5gW',
+    nome: 'ADMIN2',
+    ativo: false
+  }
+],
   funcionarios: [],
   processamentos: [],
   historicosFuncionarios: []
